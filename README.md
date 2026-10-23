@@ -36,10 +36,6 @@
 
 <img src="https://streak-stats.demolab.com?user=neharai18&background=062a28&stroke=2dd4bf&ring=2dd4bf&fire=22d3ee&currStreakNum=c8fff0&sideNums=c8fff0&currStreakLabel=5eead4&sideLabels=c8fff0&dates=9fbfb8&border=2dd4bf" alt="streak"/>
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=neharai18&bg=062a28&color=5eead4&line=2dd4bf&point=c8fff0&area_color=1d4ed8&title_color=5eead4&hide_border=true&area=true" alt="activity graph" width="95%"/>
-
 </div>
 
 ---
