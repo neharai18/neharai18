@@ -15,7 +15,7 @@
 
 <br/><br/>
 
-🔗 [HYDRA live demo](https://hydra-la8l.onrender.com/dashboard) · 📂 [HYDRA code](https://github.com/neharai18/hydra) · 📂 [BLOSSOM code](https://github.com/neharai18)
+🔗 [HYDRA live demo](https://hydra-tracker.onrender.com/dashboard) · 📂 [HYDRA code](https://github.com/neharai18/hydra) · 📂 [BLOSSOM code](https://github.com/neharai18)
 
 <br/>
 
